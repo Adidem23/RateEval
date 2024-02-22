@@ -70,12 +70,28 @@ app.post("/AcceptRequest", async (req, res) => {
     const EmailId = req.body.EmailId;
     const FirstQuestion = req.body.FirstQuestion;
     const SecondQuesion = req.body.SecondQuesion;
+    const ThirdQuestion=req.body.ThirdQuestion;
+    const FourthQuestion=req.body.FourthQuestion;
+    const FifthQuestion=req.body.FifthQuestion;
+    const SixthQuestion=req.body.SixthQuestion;
+    const SeventhQuestion=req.body.SeventhQuestion;
+    const EighthQuestion=req.body.EighthQuestion;
+    const NinethQuestion=req.body.NinethQuestion;
+    const TenthQuestion=req.body.TenthQuestion;
 
     const UserResponses = new UserResponsesModel({
         ClubName: ClubName,
         EmailId: EmailId,
         FirstQuestion: FirstQuestion,
-        SecondQuesion: SecondQuesion
+        SecondQuesion: SecondQuesion,
+        ThirdQuestion:ThirdQuestion,
+        FourthQuestion:FourthQuestion,
+        FifthQuestion:FifthQuestion,
+        SixthQuestion:SixthQuestion,
+        SeventhQuestion:SeventhQuestion,
+        EighthQuestion:EighthQuestion,
+        NinethQuestion:NinethQuestion,
+        TenthQuestion:TenthQuestion
     })
 
     fs.writeFile(filePath, EmailId, (err) => {
@@ -87,9 +103,9 @@ app.post("/AcceptRequest", async (req, res) => {
     });
 
     UserResponses.save().then(() => {
-        console.log(`NewUser Added to database`)
+        console.log(`NewUsersResponses are Added to database`)
     }).catch((err) => {
-        console.log(`Error While Saving UserResponse : ${err}`)
+        console.log(`Error While Saving UserResponses : ${err}`)
     })
 
     RunModelFile(ClubName, EmailId);

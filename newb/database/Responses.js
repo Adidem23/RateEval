@@ -7,7 +7,7 @@ const ResponseSchema = new mongoose.Schema({
 
     EmailId: {
         type: String,
-        unique:true,
+        unique: true,
     },
 
     FirstQuestion: {
@@ -16,8 +16,40 @@ const ResponseSchema = new mongoose.Schema({
 
     SecondQuesion: {
         type: Number,
-    }
+    },
 
+    ThirdQuestion: {
+        type: Number,
+    },
+
+    FourthQuestion: {
+        type: Number,
+    },
+
+    FifthQuestion: {
+        type: Number,
+    },
+
+    SixthQuestion: {
+        type: Number,
+    },
+
+    SeventhQuestion:{
+        type:Number,
+    },
+
+    EighthQuestion:{
+        type:Number,
+    },
+
+    NinethQuestion:{
+        type:Number,
+    },
+
+    TenthQuestion:{
+        type:Number,
+    },
+    
 });
 
 

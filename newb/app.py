@@ -28,6 +28,14 @@ requiredUser= UserRes_collection.find_one({field:content})
 
 FirstQuestion=requiredUser['FirstQuestion']
 SecondQuestion=requiredUser['SecondQuesion']
+ThirdQuestion=requiredUser['ThirdQuestion']
+FourthQuestion=requiredUser['FourthQuestion']
+FifthQuestion=requiredUser['FifthQuestion']
+SixthQuestion=requiredUser['SixthQuestion']
+SeventhQuestion=requiredUser['SeventhQuestion']
+EighthQuestion=requiredUser['EighthQuestion']
+NinethQuestion=requiredUser['NinethQuestion']
+TenthQuestion=requiredUser['TenthQuestion']
 
 # This is End for the user and user value 
 
@@ -54,7 +62,7 @@ y_pred = model.predict(X_eval)
 
 accuracy = r2_score(y_eval, y_pred) * 100
 
-test_data_point = np.array([FirstQuestion,3,4,5,2,SecondQuestion,3,2,4,1]).reshape(1, -1) 
+test_data_point = np.array([FirstQuestion,SecondQuestion,ThirdQuestion,FourthQuestion,FifthQuestion,SixthQuestion,SeventhQuestion,EighthQuestion,NinethQuestion,TenthQuestion]).reshape(1, -1) 
 
 predicted_review = model.predict(test_data_point)
 
