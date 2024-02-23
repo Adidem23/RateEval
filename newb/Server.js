@@ -15,7 +15,7 @@ const filePath = './user.txt';
 app.use(express.json());
 app.use(bodyparser.urlencoded({ extended: true }));
 app.use(CORS(({
-    origin: "http://localhost:5173",
+    origin: ["http://localhost:5173","https://ml-review.vercel.app/"],
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     allowedHeaders: ['Content-Type', 'Authorization'],
     credentials: true

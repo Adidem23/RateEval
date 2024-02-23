@@ -60,7 +60,7 @@ const App = () => {
         <div className="FormElement">
           <label htmlFor="clubname">ClubName</label>
           {/* <input type="text" id="clubname" placeholder="Enter Club Name" required="" onChange={(e) => setClubName(e.target.value)} /> */}
-          <select id="OptionDiv" onChange={(e) => setClubName(e.target.value)}>
+          <select id="OptionDiv" onChange={(e) => setClubName(e.target.value)} style={{ width: '120px' }}>
             <option value="MLSC">MLSC</option>
             <option value="YUG">YUG</option>
             <option value="AAROH">AAROH</option>
@@ -69,13 +69,13 @@ const App = () => {
           </select>
         </div>
 
-
+        <div style={{ width: '100%', borderBottom: '1px solid black' }}></div>
         <div className="FormElement">
           <label htmlFor="EmailId">Email Id</label>
           <input type="email" id="EmailId" placeholder="Enter Email ID" required="" onChange={(e) => setEmailId(e.target.value)} />
         </div>
 
-
+        <div style={{ width: '100%', borderBottom: '1px solid black' }}></div>
         <div className="FormElement">
           <label htmlFor="Experience">How Was your Experience with Seniors??</label>
           <Rating
@@ -90,6 +90,7 @@ const App = () => {
           />
         </div>
 
+        <div style={{ width: '100%', borderBottom: '1px solid black' }}></div>
         <div className="FormElement">
           <label htmlFor="Activities">Activities Experience??</label>
           <Rating
@@ -104,6 +105,7 @@ const App = () => {
           />
         </div>
 
+        <div style={{ width: '100%', borderBottom: '1px solid black' }}></div>
         <div className="FormElement">
           <label htmlFor="Event">How Was Event ??</label>
           <Rating
@@ -118,6 +120,7 @@ const App = () => {
           />
         </div>
 
+        <div style={{ width: '100%', borderBottom: '1px solid black' }}></div>
         <div className="FormElement">
           <label htmlFor="workshops">How Was Workshops??</label>
           <Rating
@@ -132,6 +135,7 @@ const App = () => {
           />
         </div>
 
+        <div style={{ width: '100%', borderBottom: '1px solid black' }}></div>
         <div className="FormElement">
           <label htmlFor="projects">How Were Sponosored Projects??</label>
           <Rating
@@ -146,6 +150,7 @@ const App = () => {
           />
         </div>
 
+        <div style={{ width: '100%', borderBottom: '1px solid black' }}></div>
         <div className="FormElement">
           <label htmlFor="sessiosn">How Were Mentoring Sessions??</label>
           <Rating
@@ -160,7 +165,7 @@ const App = () => {
           />
         </div>
 
-
+        <div style={{ width: '100%', borderBottom: '1px solid black' }}></div>
         <div className="FormElement">
           <label htmlFor="comp">How Were Competions ??</label>
           <Rating
@@ -175,6 +180,7 @@ const App = () => {
           />
         </div>
 
+        <div style={{ width: '100%', borderBottom: '1px solid black' }}></div>
         <div className="FormElement">
           <label htmlFor="alumini">How Were Alumini Netwrok??</label>
           <Rating
@@ -189,7 +195,7 @@ const App = () => {
           />
         </div>
 
-
+        <div style={{ width: '100%', borderBottom: '1px solid black' }}></div>
         <div className="FormElement">
           <label htmlFor="scholor">How Were ScholorShip??</label>
           <Rating
@@ -204,6 +210,7 @@ const App = () => {
           />
         </div>
 
+        <div style={{ width: '100%', borderBottom: '1px solid black' }}></div>
         <div className="FormElement">
           <label htmlFor="Networking">How Was Networking??</label>
           <Rating
