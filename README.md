@@ -24,19 +24,14 @@
 
 # About The Project : 
 
-## OrgConnect : Connecting People, Connecting Lives 
-OrgConnect is a social media platform where users can create communities and groups. Users can join these communities and groups and they can post images, videos and communicate with each other. Admins have control and permissions to manage groups and the platform.
+## RatEval : ML Based Rating Platform 
+- 
 
 ## Key Features :
 
-### Community Creation :
-- Users can create their communities e.g Sports, Technology, Books. 
-
-### Creating Categories : 
-- Users can add categories in their communities.
 
 # Video :
-- Youtube : https://youtu.be/3cNeoHDMGyk
+- Youtube : 
 
 
 # Built With : 
