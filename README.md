@@ -31,6 +31,8 @@ Check out orgConnect Here : https://github.com/Adidem23/OrgConnect
 
 ## Key Features :
 
+### Rating from User Responses : 
+- User can answer to some questions which will be responsible for the overall rating of the communities 
 
 # Video :
 - Youtube : 
