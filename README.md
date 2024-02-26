@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://github.com/Adidem23/RateEval/assets/124609794/46e38176-7f1c-43f4-8b03-cff853905d51" height="150px" width="240px" />
+ <img src="https://github.com/Adidem23/RateEval/assets/124609794/46e38176-7f1c-43f4-8b03-cff853905d51" height="200px" width="240px" />
   <h3 align="center"> RatEval : ML Based Rating Platform </h3>
 </div>
 <details>
