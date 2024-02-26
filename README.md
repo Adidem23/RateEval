@@ -95,9 +95,9 @@ node Server.js
 
 7. You are good to go 
 
-# Deployments : https://ml-review.vercel.app/
+# Deployments : 
 
-- Deployed Site Link : 
+- Deployed Site Link : https://ml-review.vercel.app/
 
 # Screenshots :
 
