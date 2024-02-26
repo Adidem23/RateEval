@@ -91,38 +91,14 @@ npm run start
 ```sh 
 node Server.js 
 ```
+6. pip install
+
+7. You are good to go 
+
 # Deployments :
 
-- Deployed Site Link : https://org-connect-amber.vercel.app/
+- Deployed Site Link : 
 
 # Screenshots :
-
-# Login Page  :
-<br>
-<img width="960" alt="Screenshot 2024-02-15 122052" src="https://github.com/Adidem23/OrgConnect/assets/124609794/e8007abc-aeef-4c94-a78c-8ccf3de498a6">
-<br>
-<br>
-<br>
-
-# Main Page : 
-<br>
-<img width="960" alt="image" src="https://github.com/Adidem23/OrgConnect/assets/124609794/56c4a561-b56a-4393-9d21-c0affe3d3bdc">
-<br>
-<br>
-<br>
-
-# Community Page : 
-<br>
-<img width="960" alt="image" src="https://github.com/Adidem23/OrgConnect/assets/124609794/ced2d7c1-0c8a-4ee6-a499-46a0e140c038">
-<br>
-<br>
-<br>
-
-# User Posts : 
-<br>
-<img width="960" alt="image" src="https://github.com/Adidem23/OrgConnect/assets/124609794/752deb01-8337-4352-82c2-be681f4ffdb1">
-<br>
-<br>
-<br>
 
 --- 
