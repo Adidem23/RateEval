@@ -25,7 +25,9 @@
 # About The Project : 
 
 ## RatEval : ML Based Rating Platform 
-- This is Rating platfrom used for rating communities in Orgconnect Platform . The rating will be provided to clubs and communities which are created in Orgconnect 
+- This is Rating platfrom used for rating communities in Orgconnect Platform . The rating will be provided to clubs and communities which are created in Orgconnect
+
+Check out orgConnect Here : https://github.com/Adidem23/OrgConnect
 
 ## Key Features :
 
