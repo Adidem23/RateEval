@@ -70,7 +70,7 @@ Check out orgConnect Here : https://github.com/Adidem23/OrgConnect
 
 Follow The Installation manual and install the dependencies.
 
-1. Run Command 
+1. go to newf and run  
  ```sh
    npm install --force
  ```
@@ -80,8 +80,17 @@ Follow The Installation manual and install the dependencies.
 npm run start
 ```
 
-3. App is Running on localhost:3000 😎
+3. Frontend  is Running on localhost:3000 😎
 
+4. Go to newb Folder
+```sh
+   npm install --force
+ ```
+
+5. Run this commmand in another terminal 
+```sh 
+node Server.js 
+```
 # Deployments :
 
 - Deployed Site Link : https://org-connect-amber.vercel.app/
