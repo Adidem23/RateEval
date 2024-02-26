@@ -43,7 +43,7 @@ Check out orgConnect Here : https://github.com/Adidem23/OrgConnect
  - [![My Skills](https://skillicons.dev/icons?i=react&perline=3)](https://skillicons.dev) ReactJs
  - [![My Skills](https://skillicons.dev/icons?i=nodejs&perline=3)](https://skillicons.dev) NodeJs
  - [![My Skills](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev) ExpressJs
- - Amity SDK 
+ - [![My Skills](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev) python
 
 
 # Prerequisites : 
