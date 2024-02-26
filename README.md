@@ -109,7 +109,7 @@ node Server.js
 <br/>
 
 <br />
-<img src=""  alt="Loading.."/>
+<img src="https://github.com/Adidem23/RateEval/assets/124609794/2b2b8bc6-be48-4fe2-bba7-3dd3619ebbd3"  alt="Loading.."/>
 <br/>
 <br/>
 <br/>
