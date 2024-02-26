@@ -45,7 +45,7 @@ Check out orgConnect Here : https://github.com/Adidem23/OrgConnect
  - [![My Skills](https://skillicons.dev/icons?i=express&perline=3)](https://skillicons.dev) ExpressJs
  - [![My Skills](https://skillicons.dev/icons?i=python&perline=3)](https://skillicons.dev) Python
  -  [![My Skills](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev) MongoDB
- - AlongSide these it make use of NodeJS Child-processes module 
+ - AlongSide these it make use of NodeJS Child-processes module to spawn processes and In Future we will shift to mongoDB Atlas For Hosting Part 
 
 
 # Prerequisites : 
