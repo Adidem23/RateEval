@@ -60,6 +60,12 @@ Check out orgConnect Here : https://github.com/Adidem23/OrgConnect
   Download Nodejs Version ^ 18.0.0 LTS 
   ```
 
+* Python
+  ```sh
+  Download Python Version ^ 3.11.4  
+  ```
+* MongoDB Compass Installed on Local System
+
 # Installation : 
 
 Follow The Installation manual and install the dependencies.
